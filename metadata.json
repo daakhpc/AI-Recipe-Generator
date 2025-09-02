@@ -1,0 +1,5 @@
+{
+  "name": "AI Recipe Generator",
+  "description": "Generate delicious recipes based on the ingredients you have on hand. Specify your dietary preferences, cuisine type, and meal type to get a customized recipe complete with an AI-generated image of the final dish.",
+  "requestFramePermissions": []
+}
